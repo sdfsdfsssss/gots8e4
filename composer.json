@@ -1,1 +1,22 @@
 
+{
+    "name": "got-4/game-of-thrones-season-8-episode-4-online-tv-hbo",
+    "description": "WATCH ONLINE Game of Thrones Season 8 Episodes 4 Full Free S08E04 WATCH FULL EPISODES HERE",
+    "homepage": "https://github.com/sdfsdfsssss/gots8e4/",
+	"keywords": ["Game of Thrones Season 8 Episodes 4 Watch Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Watch Game Of Thrones S08 E04 Online",
+            "homepage": "https://4klivetv.com/game-of-thrones/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
